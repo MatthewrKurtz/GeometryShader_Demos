@@ -87,6 +87,3 @@ NOTE: See Walkthrough.mp4 for a video demonstration of these projects.
   (1-10) Set the number of particles
   (Space-Bar) Increment the number of particles
   (Enter) Set the number of particles to 100
-
-
-"C:\Program Files\obs-studio\bin\64bit\obs64.exe"
